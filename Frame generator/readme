@@ -1,1 +1,10 @@
 It's work is to genearte frames from a video.
+It is coded in Python 3.9
+
+Tkinter is used for making it's gui.
+cv2 is used for generating frames.
+
+It takes input of video path and destination folder by clicking browse buttons for both.
+Clicking generate frames button, will generate frames on the specified location.
+
+The code has been commented for easy understanding and exception handling has been done for proper user interaction.
